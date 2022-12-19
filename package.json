@@ -43,7 +43,7 @@
     "ngx-clipboard": "^14.0.1",
     "nouislider": "^15.2.0",
     "object-path": "^0.11.5",
-    "pdfmake": "^0.2.4",
+    "pdfmake": "^0.2.7",
     "prism-themes": "^1.8.0",
     "prismjs": "^1.25.0",
     "rxjs": "~6.6.0",
